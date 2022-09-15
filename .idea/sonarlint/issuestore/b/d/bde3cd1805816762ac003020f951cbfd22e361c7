@@ -1,0 +1,4 @@
+
+š
+java:S1845"Rename method "ToString" to prevent any misunderstanding/clash with method "toString" defined in superclass "java.lang.Object".(”Ð€†üÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ð€†üÿÿÿÿ
